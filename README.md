@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 💫 About Me:
 Freelancer web developer<br>My skill for web developer for backend developer and then use to database processing SQL<br>& NOSQL. fresh graduate experience for my job become full stack in outer company.
 
