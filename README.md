@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Freelancer web developer<br>My skill for web developer for backend developer and then use to database processing SQL<br>& NOSQL. fresh graduate experience for my job become full stack in outer company.
+Hey there! 👋 I'm Stepanus Janu Adi Nugroho, a passionate Backend Engineering undergrad at Multi Data Palembang University.💻 By day, I'm a work in Charitas Hospital Group Palembang of Programmer, and by night,I learn for new tech after my work and explore other languange program and then build🌌 My journey spans from Senior High School and then i am interesting for learn technology something like that.Let's connect and embark on an exciting adventure through the fast universe of technology! 🚀.
 
 
 ## 🌐 Socials:
