@@ -3,6 +3,10 @@
 <!-- Animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Stepanus%20Janu%20Adi%20Nugroho&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Automation%20Agent%20Researcher&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <!-- Animated typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Engineering+%40+MDP+University;Automation+%26+Agent+Systems+Researcher;Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Ideas+into+Scalable+Architectures+%F0%9F%9A%80)](https://git.io/typing-svg)
 
