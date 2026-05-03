@@ -138,16 +138,6 @@ Tools & approaches I explore:
 
 <div align="center">
 
-<!--
-  ⚠️ PENTING — Ganti YOUR_VERCEL_DOMAIN di bawah setelah deploy instance sendiri.
-  Cara deploy (gratis, 5 menit):
-  1. Fork repo: https://github.com/anuraghazra/github-readme-stats
-  2. Buka vercel.com → New Project → import fork tadi
-  3. Tambah Environment Variable: GITHUB_TOKEN = (personal access token kamu)
-  4. Deploy → copy domain Vercel kamu (contoh: my-stats.vercel.app)
-  5. Ganti YOUR_VERCEL_DOMAIN di bawah dengan domain tersebut
--->
-
 <img src="https://github-readme-stats-ashy-beta-51.vercel.app/api?username=stepanusjanu19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 &nbsp;
 <img src="https://github-readme-stats-ashy-beta-51.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages" />
