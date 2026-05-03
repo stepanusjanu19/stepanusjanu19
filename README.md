@@ -116,7 +116,7 @@ Tools & approaches I explore:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -138,11 +138,16 @@ Tools & approaches I explore:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stepanusjanu19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=stepanusjanu19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&count_private=true&layout=compact&cache_seconds=1800" height="180" alt="Top Languages"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stepanusjanu19&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=stepanusjanu19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=7C3AED&currStreakLabel=7C3AED" width="495" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=stepanusjanu19&theme=tokyonight&no-frame=true&no-bg=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="660" alt="GitHub Trophies"/>
 
 </div>
 
@@ -175,9 +180,8 @@ I build for **middle engineers** — systems and tools that are powerful enough 
 
 <div align="center">
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=stepanusjanu19&icon=6&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=stepanusjanu19&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-
