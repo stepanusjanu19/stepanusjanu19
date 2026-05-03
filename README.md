@@ -150,7 +150,7 @@ Tools & approaches I explore:
 
 <img src="https://github-readme-stats-ashy-beta-51.vercel.app/api?username=stepanusjanu19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<!-- <img src="https://github-readme-stats-ashy-beta-51.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages" /> -->
+<img src="https://github-readme-stats-ashy-beta-51.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages" />
 
 <br/><br/>
 
