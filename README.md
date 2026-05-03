@@ -138,16 +138,20 @@ Tools & approaches I explore:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stepanusjanu19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true&cache_seconds=1800" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&count_private=true&layout=compact&cache_seconds=1800" height="180" alt="Top Languages"/>
+<!-- GitHub Stats — pakai instance khusus Asia yang lebih stabil -->
+<img src="https://github-readme-stats.vercel.app/api?username=stepanusjanu19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=stepanusjanu19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=7C3AED&currStreakLabel=7C3AED" width="495" alt="GitHub Streak"/>
+<!-- Streak — demolab adalah yang paling stabil saat ini -->
+<img src="https://streak-stats.demolab.com?user=stepanusjanu19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="480" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=stepanusjanu19&theme=tokyonight&no-frame=true&no-bg=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="660" alt="GitHub Trophies"/>
+<!-- Activity Graph — alternatif visual yang menarik & reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stepanusjanu19&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -180,6 +184,7 @@ I build for **middle engineers** — systems and tools that are powerful enough 
 
 <div align="center">
 
+<!-- komarev: paling stabil untuk profile views, tidak pernah down -->
 ![Profile Views](https://komarev.com/ghpvc/?username=stepanusjanu19&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
