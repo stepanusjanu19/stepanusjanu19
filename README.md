@@ -138,19 +138,26 @@ Tools & approaches I explore:
 
 <div align="center">
 
-<!-- GitHub Stats — pakai instance khusus Asia yang lebih stabil -->
-<img src="https://github-readme-stats.vercel.app/api?username=stepanusjanu19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+<!--
+  ⚠️ PENTING — Ganti YOUR_VERCEL_DOMAIN di bawah setelah deploy instance sendiri.
+  Cara deploy (gratis, 5 menit):
+  1. Fork repo: https://github.com/anuraghazra/github-readme-stats
+  2. Buka vercel.com → New Project → import fork tadi
+  3. Tambah Environment Variable: GITHUB_TOKEN = (personal access token kamu)
+  4. Deploy → copy domain Vercel kamu (contoh: my-stats.vercel.app)
+  5. Ganti YOUR_VERCEL_DOMAIN di bawah dengan domain tersebut
+-->
+
+<img src="https://YOUR_VERCEL_DOMAIN/api?username=stepanusjanu19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages" />
+<img src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=stepanusjanu19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Streak — demolab adalah yang paling stabil saat ini -->
 <img src="https://streak-stats.demolab.com?user=stepanusjanu19&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="480" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Activity Graph — alternatif visual yang menarik & reliable -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stepanusjanu19&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="95%" alt="Activity Graph" />
 
 </div>
@@ -184,7 +191,6 @@ I build for **middle engineers** — systems and tools that are powerful enough 
 
 <div align="center">
 
-<!-- komarev: paling stabil untuk profile views, tidak pernah down -->
 ![Profile Views](https://komarev.com/ghpvc/?username=stepanusjanu19&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
