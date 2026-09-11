@@ -148,8 +148,7 @@ Tools & approaches I explore:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stepanusjanu19&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="95%" alt="Activity Graph" />
-
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=stepanusjanu19&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="95%" alt="Activity Graph" /> -->
 </div>
 
 ---
